@@ -21,4 +21,14 @@ Download project data from: https://wiki.cancerimagingarchive.net/pages/viewpage
 
 If there are any issues with loading the data please email mwinga2@illinois.edu
 
+Citations:
 
+Data Citation:
+Cui, Chunyan; Li Li; Cai, Hongmin; Fan, Zhihao; Zhang, Ling; Dan, Tingting; Li, Jiao; Wang, Jinghua. (2021) The Chinese Mammography Database (CMMD): An online mammography database with biopsy confirmed types for machine diagnosis of breast. The Cancer Imaging Archive. DOI: https://doi.org/10.7937/tcia.eqde-4b16
+
+Publication Citation:
+Cai, H., Huang, Q., Rong, W., Song, Y., Li, J., Wang, J., Chen, J., & Li, L. (2019). Breast Microcalcification Diagnosis Using Deep Convolutional Neural Network from Digital Mammograms. Computational and Mathematical Methods in Medicine, 2019, 1–10. https://doi.org/10.1155/2019/2717454
+Wang, J., Yang, X., Cai, H., Tan, W., Jin, C., & Li, L. (2016). Discrimination of Breast Cancer with Microcalcifications on Mammography by Deep Learning. Scientific Reports, 6(1). https://doi.org/10.1038/srep27327
+
+TCIA Citation:
+Clark, K., Vendt, B., Smith, K., Freymann, J., Kirby, J., Koppel, P., Moore, S., Phillips, S., Maffitt, D., Pringle, M., Tarbox, L., & Prior, F. (2013). The Cancer Imaging Archive (TCIA): Maintaining and Operating a Public Information Repository. Journal of Digital Imaging, 26(6), 1045–1057. https://doi.org/10.1007/s10278-013-9622-7
